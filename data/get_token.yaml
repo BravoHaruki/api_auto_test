@@ -1,0 +1,5 @@
+login:
+  url: https://api.xdclass.net/pub/api/v1/web/web_login
+  data: {"phone": "15957162141", "pwd": "771881"}
+  headers: {"Content-Type": "application/x-www-form-urlencoded"}
+  token: token
